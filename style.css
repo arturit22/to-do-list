@@ -1,0 +1,20 @@
+h1 {
+    margin-bottom: 20px;
+}
+.container {
+    text-align: center;
+}
+.title {
+    color: orange;
+}
+.custom-bg {
+    background-color: #6f42c1;
+    height: 100vh;
+}
+.list-group-item {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
